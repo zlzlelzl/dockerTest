@@ -1,4 +1,1 @@
-FROM alpine:3.10
-
-ENTRYPOINT ["echo","hello"]
-
+FROM ubuntu:14.04
